@@ -4,12 +4,9 @@
 
 ## Many Goatitioners try their whole lives but will never even come close to the level of MASTER GOAT and other legendary levels.
 
-## TERMS:
 ## GOATHORITY
-## GOATORIZE
-## GOATITIONER
-## GOATHORITYROUNDENGINE
-## AURA
+## VALIDATOR
+
 ## ...many more that I will add later...
 
 ## BUILD INSTRUCTIONS
