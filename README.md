@@ -1,12 +1,16 @@
-![GOAT Running on Parity](docs/logo-parity-ethereum.svg)
+![GOAT running on Parity]
 
-## A badass server and client (peer) software that runs on what I am now coining or stealing from someone else.  Cough Cough..GOAT is a "middlenet" for those who try to attain the legendary and exclusive level of MASTER GOAT!  
+## GOAT running on Parity.  GOAT is a protocol layer blockchain or "middlenet" for the exclusive few who wish to enter the world of GOAT or GOAT CHAIN.  GOAT runs Proof of GOAT or in this case, I just am calling Parity's Aura engine that for my chain because it sounds more appropriate for this chain.  I will probably tweak it a bit more in the future.  
 
-TERMS:
+## Many goatitioners try their whole lives but will never reach even close to the level of MASTER GOAT and other legendary levels.
 
-GOATHORITY
-GOATORIZE
-...many more that I will add later.
+## TERMS:
+## GOATHORITY
+## GOATORIZE
+## GOATITIONER
+## GOATHORITYROUNDENGINE
+## AURA
+## ...many more that I will add later...
 
 
 <p align="center"><strong><a href="https://github.com/paritytech/parity-ethereum/releases/latest">» Download the latest release «</a></strong></p>
@@ -14,7 +18,7 @@ GOATORIZE
 <p align="center"><a href="https://gitlab.parity.io/parity/parity-ethereum/commits/master" target="_blank"><img src="https://gitlab.parity.io/parity/parity-ethereum/badges/master/build.svg" /></a>
 <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank"><img src="https://img.shields.io/badge/license-GPL%20v3-green.svg" /></a></p>
 
-**Built for mission-critical use**: Miners, service providers, and exchanges need fast synchronisation and maximum uptime. Parity Ethereum provides the core infrastructure essential for speedy and reliable services.
+**Built for mission-critical use**: Miners, service providers, and exchanges need fast synchronisation and maximum uptime. Goat, running on Parit Ethereum, provides the core infrastructure essential for speedy and reliable services.
 
 - Clean, modular codebase for easy customisation
 - Advanced CLI-based client
