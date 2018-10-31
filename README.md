@@ -1,6 +1,13 @@
-![Parity Ethereum](docs/logo-parity-ethereum.svg)
+![GOAT Running on Parity](docs/logo-parity-ethereum.svg)
 
-## The fastest and most advanced Ethereum client.
+## A badass server and client (peer) software that runs on what I am now coining or stealing from someone else.  Cough Cough..GOAT is a "middlenet" for those who try to attain the legendary and exclusive level of MASTER GOAT!  
+
+TERMS:
+
+GOATHORITY
+GOATORIZE
+...many more that I will add later.
+
 
 <p align="center"><strong><a href="https://github.com/paritytech/parity-ethereum/releases/latest">» Download the latest release «</a></strong></p>
 
