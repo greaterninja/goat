@@ -1,6 +1,6 @@
 ![GOAT running on Parity]
 
-## GOAT running on Parity.  GOAT is a protocol layer blockchain or "middlenet" for the exclusive few who wish to enter the world of GOAT or GOAT CHAIN.  GOAT runs Proof of GOAT or in this case, I just am calling Parity's Aura engine that for my chain because it sounds more appropriate for this chain.  I will probably tweak it a bit more in the future.  
+## GOAT running on Parity.  GOAT is a protocol layer blockchain or "middlenet" for the exclusive few who wish to enter the world of GOAT or GOAT CHAIN.  GOAT runs on Proof of GOAT or in this case, I just am calling Parity's Aura engine that for my chain because it sounds more appropriate for this chain.  I will probably tweak it a bit more in the future.  
 
 ## Many goatitioners try their whole lives but will never reach even close to the level of MASTER GOAT and other legendary levels.
 
